@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm MarcelPerm, a data enthusiast with a passion for analysis and visualization. Here's a glimpse into my skill set and interests:
+I'm a data analyst with a passion for analysis and visualization. Here's a glimpse into my skill set and interests:
 
 # 🔧 Languages & Tools:
 
